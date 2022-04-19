@@ -1,0 +1,24 @@
+{
+  "name": "tecnicasprogramacao",
+  "version": "1.0.0",
+  "description": "projeto aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eudanilo7/tecnicasprogramacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Danilo brabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eudanilo7/tecnicasprogramacao/issues"
+  },
+  "homepage": "https://github.com/eudanilo7/tecnicasprogramacao#readme"
+}
